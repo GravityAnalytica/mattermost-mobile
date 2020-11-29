@@ -1,9 +1,9 @@
 {
-  "name": "mattermost-mobile",
-  "version": "1.38.0",
-  "description": "Mattermost Mobile with React Native",
-  "repository": "git@github.com:mattermost/mattermost-mobile.git",
-  "author": "Mattermost, Inc.",
+  "name": "gravity-analytica-mobile",
+  "version": "1.0.0",
+  "description": "Gravity Analytica",
+  "repository": "git@github.com:GravityAnalytica/mattermost-mobile.git",
+  "author": "Gravity Analytica LLC",
   "license": "Apache 2.0",
   "private": true,
   "dependencies": {
